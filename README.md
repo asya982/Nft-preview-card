@@ -24,11 +24,13 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-    
+    ![image](https://user-images.githubusercontent.com/105641724/195580058-a00e4bc9-cf83-4d90-a931-5d706e678c02.png)
+![image](https://user-images.githubusercontent.com/105641724/195580087-b6cdbce6-ab95-4527-a951-f20d7ed8db96.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://asya982.github.io/Nft-preview-card/
 
 
 ## My process
@@ -42,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [asya982](https://github.com/asya982)
+- Frontend Mentor - [@asya982](https://www.frontendmentor.io/profile/asya982)
